@@ -12,7 +12,7 @@
     "email": "john.crepezzi@gmail.com",
     "url": "http://seejohncode.com/"
   },
-  "main": "haste",
+  "main": "server.js",
   "dependencies": {
     "busboy": "0.2.4",
     "connect": "^3.7.0",
